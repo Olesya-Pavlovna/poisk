@@ -1,0 +1,33 @@
+
+body {
+background-color:bisque;
+}
+
+.btn-primary{
+    color: #ffc107!important;
+    background-color:#842029 !important;
+    border-color: #ffc107;
+}
+
+
+
+
+
+
+
+.card-img-top {
+    height: 250px;
+}
+
+.cont{
+    display: flex;    
+    flex-direction: row;
+}
+h1,h5{
+    text-align: center;
+    color: brown;
+}
+ .btn {
+    display: flex !important; ;	
+  justify-content: center;	
+}
